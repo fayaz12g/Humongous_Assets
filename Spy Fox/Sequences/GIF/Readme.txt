@@ -1,0 +1,2 @@
+What are those GIFs?
+They are the combined frames of all the 'sequence' subfolders, automatically stitched together at 1/12 a second speed. Some are not working well because it does not differentiate 'components' from normal frames, but overall it's a good way to visualize the folders.
